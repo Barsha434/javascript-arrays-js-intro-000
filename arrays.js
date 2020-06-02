@@ -25,6 +25,6 @@ array.shift();
 return array
 }
 function removeElementFromBeginningOfArray(array){
- array=array.slice(2)
+ array.slice(1,1)
  
 }
