@@ -28,5 +28,3 @@ function removeElementFromBeginningOfArray(array,element){
 array.slice(element);
 return array
 }
-
-
